@@ -6,5 +6,5 @@ Use cli commands to move the chess pieces on board, while checks are implemented
 Requirements: g++, freeglut3-dev (GLUT), opengl (OpenGL 3)</br>
 Run:
 <pre> g++ chessboard.cpp -o chess -lGL -lGLU -lglut
-./chess</pre
+./chess</pre>
 
